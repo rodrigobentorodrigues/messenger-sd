@@ -1,0 +1,4 @@
+{"date":1519911471723,"from":"Rodrigo","id":1,"text":"Oi"}
+{"date":1519911476436,"from":"Rodrigo","id":2,"text":"Tudo bem?"}
+{"date":1519911491036,"from":"Lana","id":3,"text":"Oi"}
+{"date":1519911493541,"from":"Lana","id":4,"text":"Tudo e com voce?"}
